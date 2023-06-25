@@ -2,9 +2,9 @@ import telebot
 from tgsdl import download_sticker_pack
 import os
 
-bot_token = "BOT-TOKEN"
+bot_token = "6294861300:AAFA11qN7tu-RssUwnNoHOmO4G9LH1qbanw"
 #channel id
-log_channel = int(-1001688401243326) # Change id
+log_channel = int(-1001806314462) # Change id
 bot = telebot.TeleBot(bot_token)
 pic = "https://external-preview.redd.it/cS0icfKcdsND_SJTYlbXxklp32qZYOnawKHKS88XSsE.png?format=pjpg&auto=webp&s=24bc4881f7bbf5ba6c650023ca753afdfa397675"
 
